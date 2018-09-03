@@ -6,10 +6,8 @@ Repository for HelloPaige
 ### App Description
 This application allows users to manipulate the background color, text color, and edit the string of text
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+### App Walk-through
+![hellopaige](https://user-images.githubusercontent.com/32183313/44971098-48cddd00-af22-11e8-9377-a8a62b84b098.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
